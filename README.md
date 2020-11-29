@@ -1,5 +1,7 @@
 # Concurrent Webserver ⭐
 
+This project was part of the course CS 301 : Operating Systems offered at IIT Gandhinagar in AY 2020-21 by Prof. Nipun Batra. The contributors of this project are Aditya Tripathi, Nishikant Parmar, Kushagra Sharma and Dishank Goel.
+
 A multi-threaded HTTP server implementing First in Fist out (FIFO), Shortest File First (SFF) and Shortest File Name First (SFNF) scheduling policies and security on the server. 
 
 The timeline of the project is shown below:
